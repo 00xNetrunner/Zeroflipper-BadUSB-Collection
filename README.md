@@ -1,5 +1,5 @@
 
-<h1 align="left">My Personal Collection of BadUSB scripts for the Flipper Zero</h1>
+<h1 align="left">My Personal Collection of BadUSB payloads for the Flipper Zero</h1>
 
 ###
 
