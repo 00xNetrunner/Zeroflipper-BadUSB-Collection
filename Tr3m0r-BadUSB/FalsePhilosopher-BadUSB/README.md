@@ -1,5 +1,5 @@
 # Stand up to hate against minorities, silence is violence!
-Lol Gay - Net
+equality is a false god - Net
 
 # Flipper zero community badusb payload library
 The idea is to put all the fz friendly scripts in one place like the IRDB in one master library so we can all just git pull the updates.
